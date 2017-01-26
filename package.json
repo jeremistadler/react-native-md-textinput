@@ -5,7 +5,7 @@
   "main": "lib/TextField.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evblurbs/react-native-md-textinput.git"
+    "url": "git+https://github.com/jeremistadler/react-native-md-textinput.git"
   },
   "keywords": [
     "react-native",
@@ -19,5 +19,5 @@
   },
   "author": "Evan Johnson",
   "license": "MIT",
-  "homepage": "https://github.com/evblurbs/react-native-md-textinput#readme"
+  "homepage": "https://github.com/jeremistadler/react-native-md-textinput#readme"
 }
