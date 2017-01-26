@@ -1,5 +1,5 @@
 {
-  "name": "react-native-md-textinput-1mg",
+  "name": "react-native-md-textinput",
   "version": "2.0.8",
   "description": "React Native TextInput styled with Material Design.",
   "main": "lib/TextField.js",
